@@ -1,0 +1,53 @@
+[24-Nov-2014 22:09:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ispypw/public_html/panel/application/models/manage.php on line 205
+[04-Dec-2014 13:53:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ispypw/public_html/panel/application/controllers/main.php on line 428
+[04-Dec-2014 18:19:11 US/Central] PHP Fatal error:  Call to a member function generateForm() on a non-object in /home/ispypw/public_html/panel/application/controllers/main.php on line 126
+[04-Dec-2014 18:19:39 US/Central] PHP Fatal error:  Call to a member function generateForm() on a non-object in /home/ispypw/public_html/panel/application/controllers/main.php on line 127
+[04-Dec-2014 18:19:40 US/Central] PHP Fatal error:  Call to a member function generateForm() on a non-object in /home/ispypw/public_html/panel/application/controllers/main.php on line 127
+[04-Dec-2014 18:19:42 US/Central] PHP Fatal error:  Call to a member function generateForm() on a non-object in /home/ispypw/public_html/panel/application/controllers/main.php on line 127
+[04-Dec-2014 18:19:54 US/Central] PHP Fatal error:  Call to a member function generateForm() on a non-object in /home/ispypw/public_html/panel/application/controllers/main.php on line 127
+[05-Dec-2014 00:19:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ispypw/public_html/panel/application/controllers/main.php on line 243
+[04-Dec-2014 18:27:31 US/Central] PHP Fatal error:  Uncaught exception 'Exception' with message 'Empty POST data' in /home/ispypw/public_html/panel/includes/ipn.php:194
+Stack trace:
+#0 /home/ispypw/public_html/panel/application/controllers/main.php(306): PayPal\IPN->verify()
+#1 [internal function]: Main->ipn('PayPal')
+#2 /home/ispypw/public_html/panel/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/ispypw/public_html/panel/index.php(202): require_once('/home/ispypw/pu...')
+#4 {main}
+  thrown in /home/ispypw/public_html/panel/includes/ipn.php on line 194
+[04-Dec-2014 18:29:09 US/Central] PHP Fatal error:  Uncaught exception 'Exception' with message 'Empty POST data' in /home/ispypw/public_html/panel/includes/ipn.php:194
+Stack trace:
+#0 /home/ispypw/public_html/panel/application/controllers/main.php(307): PayPal\IPN->verify()
+#1 [internal function]: Main->ipn('PayPal')
+#2 /home/ispypw/public_html/panel/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/ispypw/public_html/panel/index.php(202): require_once('/home/ispypw/pu...')
+#4 {main}
+  thrown in /home/ispypw/public_html/panel/includes/ipn.php on line 194
+[04-Dec-2014 18:29:11 US/Central] PHP Fatal error:  Uncaught exception 'Exception' with message 'Empty POST data' in /home/ispypw/public_html/panel/includes/ipn.php:194
+Stack trace:
+#0 /home/ispypw/public_html/panel/application/controllers/main.php(307): PayPal\IPN->verify()
+#1 [internal function]: Main->ipn('PayPal')
+#2 /home/ispypw/public_html/panel/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/ispypw/public_html/panel/index.php(202): require_once('/home/ispypw/pu...')
+#4 {main}
+  thrown in /home/ispypw/public_html/panel/includes/ipn.php on line 194
+[04-Dec-2014 18:29:23 US/Central] PHP Fatal error:  Uncaught exception 'Exception' with message 'Empty POST data' in /home/ispypw/public_html/panel/includes/ipn.php:194
+Stack trace:
+#0 /home/ispypw/public_html/panel/application/controllers/main.php(307): PayPal\IPN->verify()
+#1 [internal function]: Main->ipn('PayPal')
+#2 /home/ispypw/public_html/panel/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/ispypw/public_html/panel/index.php(202): require_once('/home/ispypw/pu...')
+#4 {main}
+  thrown in /home/ispypw/public_html/panel/includes/ipn.php on line 194
+[04-Dec-2014 18:29:45 US/Central] PHP Fatal error:  Uncaught exception 'Exception' with message 'Empty POST data' in /home/ispypw/public_html/panel/includes/ipn.php:194
+Stack trace:
+#0 /home/ispypw/public_html/panel/application/controllers/main.php(307): PayPal\IPN->verify()
+#1 [internal function]: Main->ipn('PayPal')
+#2 /home/ispypw/public_html/panel/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/ispypw/public_html/panel/index.php(202): require_once('/home/ispypw/pu...')
+#4 {main}
+  thrown in /home/ispypw/public_html/panel/includes/ipn.php on line 194
+[04-Dec-2014 18:30:56 US/Central] PHP Fatal error:  Call to undefined function display_errors() in /home/ispypw/public_html/panel/application/controllers/main.php on line 203
+[04-Dec-2014 18:37:07 US/Central] PHP Fatal error:  Class 'PayPal\IPN' not found in /home/ispypw/public_html/panel/application/controllers/main.php on line 126
+[04-Dec-2014 18:37:09 US/Central] PHP Fatal error:  Class 'PayPal\IPN' not found in /home/ispypw/public_html/panel/application/controllers/main.php on line 126
+[05-Dec-2014 00:37:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ispypw/public_html/panel/application/controllers/main.php on line 103
+[05-Dec-2014 00:37:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ispypw/public_html/panel/application/controllers/main.php on line 103

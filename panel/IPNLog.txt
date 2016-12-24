@@ -1,0 +1,28 @@
+
+Starting verify (18:27:31 / 04-12-2014) 
+ _____________
+$_POST is empty
+Starting verify (18:29:09 / 04-12-2014) 
+ _____________
+$_POST is empty
+Starting verify (18:29:11 / 04-12-2014) 
+ _____________
+$_POST is empty
+Starting verify (18:29:23 / 04-12-2014) 
+ _____________
+$_POST is empty
+Starting verify (18:29:45 / 04-12-2014) 
+ _____________
+$_POST is empty
+Starting verify (18:31:20 / 04-12-2014) 
+ _____________
+$_POST is empty
+Starting verify (18:31:21 / 04-12-2014) 
+ _____________
+$_POST is empty
+Starting verify (18:31:32 / 04-12-2014) 
+ _____________
+$_POST is empty
+Starting verify (00:36:25 / 05-12-2014) 
+ _____________
+INVALID - Transaction ID: 5EC59353VP230612R
